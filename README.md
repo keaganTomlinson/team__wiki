@@ -1,5 +1,5 @@
 # team__wiki
-<<<<<<< HEAD
+
 Nsikelelo 
 =======
 
